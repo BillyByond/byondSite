@@ -70,3 +70,8 @@ enableEmoji = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+    
+  [privacy]
+  [privacy.instagram]
+    disable = false
+    simple = false
